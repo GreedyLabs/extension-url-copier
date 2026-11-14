@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+url-copier.zip
+.browser-extension-deploy/

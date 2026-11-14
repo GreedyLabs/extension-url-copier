@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "URL Copier"
+  },
+  "extDescription": {
+    "message": "단축키로 현재 탭의 주소를 복사합니다."
+  },
+  "actionTitle": {
+    "message": "크롬 단축키 설정 열기"
+  },
+  "cmdPrimary": {
+    "message": "현재 탭 주소 복사"
+  },
+  "offscreenJustification": {
+    "message": "현재 탭의 주소를 시스템 클립보드에 씁니다."
+  },
+  "feedbackCopied": {
+    "message": "주소가 복사되었습니다"
+  },
+  "feedbackCopyFailed": {
+    "message": "주소를 복사하지 못했습니다"
+  },
+  "feedbackNoUrl": {
+    "message": "이 탭의 주소를 읽을 수 없습니다"
+  }
+}

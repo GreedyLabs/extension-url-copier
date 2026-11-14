@@ -1,0 +1,15 @@
+{
+  "name": "url-copier",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Chrome extension: copy the current tab's URL with a keyboard shortcut.",
+  "license": "MIT",
+  "author": "GreedyLabs",
+  "scripts": {
+    "test": "node --test 'test/*.test.js'",
+    "icons": "python3 tools/make-icons.py",
+    "build:zip": "npm run zip",
+    "zip": "rm -f url-copier.zip && zip -X -r url-copier.zip manifest.json src icons _locales LICENSE -x '*.DS_Store' -x '*__preview*'"
+  }
+}

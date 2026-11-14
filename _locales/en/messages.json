@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "URL Copier"
+  },
+  "extDescription": {
+    "message": "Copy the current tab's URL with a keyboard shortcut."
+  },
+  "actionTitle": {
+    "message": "Open Chrome keyboard shortcut settings"
+  },
+  "cmdPrimary": {
+    "message": "Copy current tab URL"
+  },
+  "offscreenJustification": {
+    "message": "Writes the current tab's URL to the system clipboard."
+  },
+  "feedbackCopied": {
+    "message": "URL copied"
+  },
+  "feedbackCopyFailed": {
+    "message": "Couldn't copy the URL"
+  },
+  "feedbackNoUrl": {
+    "message": "Can't read this tab's URL"
+  }
+}
